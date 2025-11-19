@@ -1,0 +1,38 @@
+{
+  "tytul": "Ferrari F40 - Legenda lat 80.",
+  "lata_produkcji": "1987–1992",
+  "opis": "Supersamochód produkowany przez włoską firmę Ferrari. Był to ostatni model zatwierdzony osobiście przez Enzo Ferrariego przed jego śmiercią.",
+  "cytat": "\"Aerodynamika jest dla ludzi, którzy nie potrafią budować silników.\" - Enzo Ferrari",
+  "specyfikacja_i_konkurencja": [
+    {
+      "rok": 1987,
+      "model": "Ferrari F40",
+      "detale": "Silnik 2.9L V8 Twin-Turbo, Moc 478 KM, Prędkość 324 km/h"
+    },
+    {
+      "rok": 1986,
+      "model": "Porsche 959",
+      "detale": "Silnik 2.8L Boxer Twin-Turbo, Moc 450 KM, Prędkość 317 km/h"
+    },
+    {
+      "rok": 1985,
+      "model": "Lamborghini Countach",
+      "detale": "Silnik 5.2L V12, Moc 455 KM, Prędkość 295 km/h"
+    }
+  ],
+  "ciekawostki_konstrukcyjne": [
+    "Aby auto było lekkie, nie ma klamek w środku (otwiera się je linką)",
+    "Warstwa farby jest tak cienka, że widać pod nią włókno węglowe.",
+    "Dziś taki samochód kosztuje miliony dolarów",
+  ],
+  "obrazy": [
+    {
+      "url_do_zdjecia": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/640px-F40_Ferrari_20090509.jpg",
+      "opis": "Widok zewnętrzny Ferrari F40"
+    },
+    {
+      "url_do_zdjecia": "https://i.redd.it/drzhru77vxj51.jpg",
+      "opis": "Surowe wnętrze wyścigowe (kokpit)"
+    }
+  ]
+}
