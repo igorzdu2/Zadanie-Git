@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<garaz_marzen>
+<garaz>
     <opis_projektu>Zestawienie ikon motoryzacji lat 80.</opis_projektu>
     
     <samochod id="1">
@@ -36,4 +36,4 @@
         </dane_techniczne>
     </samochod>
 
-</garaz_marzen>
+</garaz>
