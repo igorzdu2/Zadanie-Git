@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<garaz_marzen>
+    <opis_projektu>Zestawienie ikon motoryzacji lat 80.</opis_projektu>
+    
+    <samochod id="1">
+        <marka>Ferrari</marka>
+        <model>F40</model>
+        <rok_produkcji>1987</rok_produkcji>
+        <dane_techniczne>
+            <silnik>2.9L V8 Twin-Turbo</silnik>
+            <moc>478 KM</moc>
+            <predkosc_max jednostka="km/h">324</predkosc_max>
+        </dane_techniczne>
+        <ciekawostka>Brak klamek wewnętrznych dla redukcji wagi.</ciekawostka>
+    </samochod>
+
+    <samochod id="2">
+        <marka>Porsche</marka>
+        <model>959</model>
+        <rok_produkcji>1986</rok_produkcji>
+        <dane_techniczne>
+            <silnik>2.8L Boxer Twin-Turbo</silnik>
+            <moc>450 KM</moc>
+            <predkosc_max jednostka="km/h">317</predkosc_max>
+        </dane_techniczne>
+    </samochod>
+
+    <samochod id="3">
+        <marka>Lamborghini</marka>
+        <model>Countach</model>
+        <rok_produkcji>1985</rok_produkcji>
+        <dane_techniczne>
+            <silnik>5.2L V12</silnik>
+            <moc>455 KM</moc>
+            <predkosc_max jednostka="km/h">295</predkosc_max>
+        </dane_techniczne>
+    </samochod>
+
+</garaz_marzen>
